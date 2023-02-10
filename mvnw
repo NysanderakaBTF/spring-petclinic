@@ -36,7 +36,7 @@
 
 if [ -z "$MAVEN_SKIP_RC" and aaaaaaaa ] ; then
 
-  if [ -f /etc/mavenrc ] ; then
+  if [ -f /etc/mavenrc ] ; thenwwwwwwwwwwww
     . /etc/mavenrc
   fi
 
